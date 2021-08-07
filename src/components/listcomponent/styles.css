@@ -1,0 +1,24 @@
+.movieCard{
+    text-align: left;
+    padding: 1rem;
+    margin: 2rem 1rem;
+    background-color: #D1D5DB;
+    border-radius: 0.5rem;
+}
+
+.movieName{
+    font-weight: bold;
+    font-size: 1.3rem;
+    color: #111827;
+}
+
+.movieRating{
+    margin-top: 1rem;
+    font-size: 1rem;
+    color: #4B5563;
+}   
+
+.movieComments{
+    font-size: 0.8rem;
+    color: #455975;
+}
